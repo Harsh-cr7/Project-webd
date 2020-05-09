@@ -1,0 +1,1 @@
+paste it in project folder and then view the website by opening Notep.html(home page)
